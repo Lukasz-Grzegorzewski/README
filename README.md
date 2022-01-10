@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GLJ-dev
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML/CSS/JS/REACT
+- 🌱 I’m currently learning HTML/CSS/JS/React.JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 GLJ.dev@icloud.com
 
