@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grzegorzewski-Lukasz
+- 👋 Hi, I’m @Lukasz-Grzegorzewski
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning HTML/CSS/JS/React.JS
 - 💞️ I’m looking to collaborate on any kind of Front End Dev. projects 
